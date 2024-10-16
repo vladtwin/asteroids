@@ -1,0 +1,22 @@
+{
+    "name": "com.asteroids.scripts",
+    "rootNamespace": "asteroids.scripts",
+    "references": [
+        "Zenject",
+        "",
+        "com.asteroids.scripts.StateMachine",
+        "UniTask",
+        "com.3rdParty",
+        "Unity.TextMeshPro",
+        "UniTask.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

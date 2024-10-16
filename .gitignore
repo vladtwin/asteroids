@@ -72,3 +72,11 @@ src/[Aa]steroids/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 src/[Aa]steroids/[Aa]ssets/[Ss]treamingAssets/aa.meta
 src/[Aa]steroids/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
+
+
+
+
+artifacts/
